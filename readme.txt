@@ -8,3 +8,4 @@ Git is Haha.
 暂存之后在改
 测试一下diff
 增加一行并commit
+增加一行不add
