@@ -2,7 +2,7 @@ Git is a version control system.
 Git is a free software.
 Git is Diao.
 Git is Niu.
-Git is Haha.
+Git is 哈哈修改bug.
 增加第二行
 改一下
 暂存之后在改
